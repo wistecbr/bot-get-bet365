@@ -1,0 +1,12 @@
+{
+  "erros": [
+    {
+      "id": 1688129703165,
+      "times": [
+        "2023-06-30T12:55:03.165Z"
+      ],
+      "name": "page.waitForLoadState: Navigation failed because page was closed!",
+      "error": "page.waitForLoadState: Navigation failed because page was closed!\n    at file:///home/wisley/meus_projetos/boot-bet365/lib/bot.js:22:18"
+    }
+  ]
+}

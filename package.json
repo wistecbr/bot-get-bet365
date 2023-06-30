@@ -1,0 +1,16 @@
+{
+  "name": "boot-bet365",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lowdb": "^6.0.1",
+    "playwright-firefox": "^1.35.1"
+  }
+}

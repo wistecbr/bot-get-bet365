@@ -1,0 +1,29 @@
+{
+  "erros": [
+    {
+      "id": 1688129540006,
+      "times": [
+        "2023-06-30T12:52:20.006Z"
+      ],
+      "name": "browserType.launch: Protocol error (Browser.enable): Browser closed.\n==================== Browser output: ====================\n<launching> /home/wisley/.cache/ms-playwright/firefox-1408/firefox/firefox -no-remote -headless -profile /tmp/playwright_firefoxdev_profile-noSD4w -juggler-pipe -silent\n<launched> pid=9350\n[pid=9350][err] *** You are running in headless mode.\n[pid=9350] <gracefully close start>\n[pid=9350] <kill>\n[pid=9350] <will force kill>\n[pid=9350] <process did exit: exitCode=null, signal=SIGKILL>\n[pid=9350] starting temporary directories cleanup\n=========================== logs ===========================\n<launching> /home/wisley/.cache/ms-playwright/firefox-1408/firefox/firefox -no-remote -headless -profile /tmp/playwright_firefoxdev_profile-noSD4w -juggler-pipe -silent\n<launched> pid=9350\n[pid=9350][err] *** You are running in headless mode.\n[pid=9350] <gracefully close start>\n[pid=9350] <kill>\n[pid=9350] <will force kill>\n[pid=9350] <process did exit: exitCode=null, signal=SIGKILL>\n[pid=9350] starting temporary directories cleanup\n============================================================",
+      "error": "browserType.launch: Protocol error (Browser.enable): Browser closed.\n==================== Browser output: ====================\n<launching> /home/wisley/.cache/ms-playwright/firefox-1408/firefox/firefox -no-remote -headless -profile /tmp/playwright_firefoxdev_profile-noSD4w -juggler-pipe -silent\n<launched> pid=9350\n[pid=9350][err] *** You are running in headless mode.\n[pid=9350] <gracefully close start>\n[pid=9350] <kill>\n[pid=9350] <will force kill>\n[pid=9350] <process did exit: exitCode=null, signal=SIGKILL>\n[pid=9350] starting temporary directories cleanup\n=========================== logs ===========================\n<launching> /home/wisley/.cache/ms-playwright/firefox-1408/firefox/firefox -no-remote -headless -profile /tmp/playwright_firefoxdev_profile-noSD4w -juggler-pipe -silent\n<launched> pid=9350\n[pid=9350][err] *** You are running in headless mode.\n[pid=9350] <gracefully close start>\n[pid=9350] <kill>\n[pid=9350] <will force kill>\n[pid=9350] <process did exit: exitCode=null, signal=SIGKILL>\n[pid=9350] starting temporary directories cleanup\n============================================================\n    at file:///home/wisley/meus_projetos/boot-bet365/lib/bot.js:15:37\n    at run (file:///home/wisley/meus_projetos/boot-bet365/lib/bot.js:5:10)\n    at Timeout._onTimeout (file:///home/wisley/meus_projetos/boot-bet365/index.js:7:5)"
+    },
+    {
+      "id": 1688129540463,
+      "times": [
+        "2023-06-30T12:52:20.463Z",
+        "2023-06-30T12:52:20.851Z"
+      ],
+      "name": "browser.newPage: Protocol error (Browser.newPage): window is null waitForWindowReady@chrome://juggler/content/TargetRegistry.js:1131:7\nnewPage@chrome://juggler/content/TargetRegistry.js:306:11\nBrowser.newPage@chrome://juggler/content/protocol/BrowserHandler.js:134:49\ndispatch@chrome://juggler/content/protocol/Dispatcher.js:132:39\n_dispatch@chrome://juggler/content/protocol/Dispatcher.js:69:36\nreceiveMessage@chrome://juggler/content/components/Juggler.js:118:20\nobserve@resource://gre/modules/AsyncShutdown.sys.mjs:576:16\nobserve/browserHandler<@chrome://juggler/content/components/Juggler.js:138:30\nBrowser.close@chrome://juggler/content/protocol/BrowserHandler.js:151:10\n",
+      "error": "browser.newPage: Protocol error (Browser.newPage): window is null waitForWindowReady@chrome://juggler/content/TargetRegistry.js:1131:7\nnewPage@chrome://juggler/content/TargetRegistry.js:306:11\nBrowser.newPage@chrome://juggler/content/protocol/BrowserHandler.js:134:49\ndispatch@chrome://juggler/content/protocol/Dispatcher.js:132:39\n_dispatch@chrome://juggler/content/protocol/Dispatcher.js:69:36\nreceiveMessage@chrome://juggler/content/components/Juggler.js:118:20\nobserve@resource://gre/modules/AsyncShutdown.sys.mjs:576:16\nobserve/browserHandler<@chrome://juggler/content/components/Juggler.js:138:30\nBrowser.close@chrome://juggler/content/protocol/BrowserHandler.js:151:10\n\n    at file:///home/wisley/meus_projetos/boot-bet365/lib/bot.js:18:34"
+    },
+    {
+      "id": 1688129702711,
+      "times": [
+        "2023-06-30T12:55:02.711Z"
+      ],
+      "name": "page.waitForLoadState: Navigation failed because page was closed!",
+      "error": "page.waitForLoadState: Navigation failed because page was closed!\n    at file:///home/wisley/meus_projetos/boot-bet365/lib/bot.js:22:18"
+    }
+  ]
+}

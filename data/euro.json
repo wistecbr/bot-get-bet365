@@ -1,0 +1,291 @@
+{
+  "jogos": [
+    {
+      "id": 1688091784416,
+      "hora": 3,
+      "minuto": 20,
+      "placarCasa": 1,
+      "placarFora": 3
+    },
+    {
+      "id": 1688092061667,
+      "hora": 3,
+      "minuto": 23,
+      "placarCasa": 1,
+      "placarFora": 2
+    },
+    {
+      "id": 1688092260255,
+      "hora": 3,
+      "minuto": 26,
+      "placarCasa": 0,
+      "placarFora": 2
+    },
+    {
+      "id": 1688092274612,
+      "hora": 3,
+      "minuto": 29,
+      "placarCasa": 1,
+      "placarFora": 3
+    },
+    {
+      "id": 1688092446624,
+      "hora": 3,
+      "minuto": 32,
+      "placarCasa": 1,
+      "placarFora": 1
+    },
+    {
+      "id": 1688092638611,
+      "hora": 3,
+      "minuto": 35,
+      "placarCasa": 1,
+      "placarFora": 1
+    },
+    {
+      "id": 1688092908619,
+      "hora": 3,
+      "minuto": 38,
+      "placarCasa": 0,
+      "placarFora": 1
+    },
+    {
+      "id": 1688093280102,
+      "hora": 3,
+      "minuto": 44,
+      "placarCasa": 1,
+      "placarFora": 0
+    },
+    {
+      "id": 1688093673424,
+      "hora": 3,
+      "minuto": 50,
+      "placarCasa": 2,
+      "placarFora": 1
+    },
+    {
+      "id": 1688093707823,
+      "hora": 3,
+      "minuto": 53,
+      "placarCasa": 0,
+      "placarFora": 3
+    },
+    {
+      "id": 1688093891989,
+      "hora": 3,
+      "minuto": 56,
+      "placarCasa": 3,
+      "placarFora": 0
+    },
+    {
+      "id": 1688094118906,
+      "hora": 3,
+      "minuto": 59,
+      "placarCasa": 0,
+      "placarFora": 4
+    },
+    {
+      "id": 1688094270578,
+      "hora": 4,
+      "minuto": 2,
+      "placarCasa": 1,
+      "placarFora": 3
+    },
+    {
+      "id": 1688094427477,
+      "hora": 4,
+      "minuto": 5,
+      "placarCasa": 1,
+      "placarFora": 0
+    },
+    {
+      "id": 1688094616590,
+      "hora": 4,
+      "minuto": 8,
+      "placarCasa": 1,
+      "placarFora": 0
+    },
+    {
+      "id": 1688095128305,
+      "hora": 4,
+      "minuto": 14,
+      "placarCasa": 2,
+      "placarFora": 1
+    },
+    {
+      "id": 1688095143103,
+      "hora": 4,
+      "minuto": 17,
+      "placarCasa": 1,
+      "placarFora": 2
+    },
+    {
+      "id": 1688095338477,
+      "hora": 4,
+      "minuto": 20,
+      "placarCasa": 0,
+      "placarFora": 1
+    },
+    {
+      "id": 1688095620816,
+      "hora": 4,
+      "minuto": 23,
+      "placarCasa": 1,
+      "placarFora": 3
+    },
+    {
+      "id": 1688096076056,
+      "hora": 4,
+      "minuto": 32,
+      "placarCasa": 1,
+      "placarFora": 3
+    },
+    {
+      "id": 1688096233916,
+      "hora": 4,
+      "minuto": 35,
+      "placarCasa": 1,
+      "placarFora": 1
+    },
+    {
+      "id": 1688096436722,
+      "hora": 4,
+      "minuto": 38,
+      "placarCasa": 0,
+      "placarFora": 0
+    },
+    {
+      "id": 1688096673060,
+      "hora": 4,
+      "minuto": 41,
+      "placarCasa": 2,
+      "placarFora": 0
+    },
+    {
+      "id": 1688096794568,
+      "hora": 4,
+      "minuto": 44,
+      "placarCasa": 0,
+      "placarFora": 2
+    },
+    {
+      "id": 1688097131801,
+      "hora": 4,
+      "minuto": 50,
+      "placarCasa": 2,
+      "placarFora": 0
+    },
+    {
+      "id": 1688097316194,
+      "hora": 4,
+      "minuto": 53,
+      "placarCasa": 1,
+      "placarFora": 1
+    },
+    {
+      "id": 1688097495032,
+      "hora": 4,
+      "minuto": 56,
+      "placarCasa": 0,
+      "placarFora": 1
+    },
+    {
+      "id": 1688097678395,
+      "hora": 4,
+      "minuto": 59,
+      "placarCasa": null,
+      "placarFora": null
+    },
+    {
+      "id": 1688097853875,
+      "hora": 5,
+      "minuto": 2,
+      "placarCasa": 3,
+      "placarFora": 1
+    },
+    {
+      "id": 1688098040269,
+      "hora": 5,
+      "minuto": 5,
+      "placarCasa": 1,
+      "placarFora": 0
+    },
+    {
+      "id": 1688098215138,
+      "hora": 5,
+      "minuto": 8,
+      "placarCasa": 1,
+      "placarFora": 2
+    },
+    {
+      "id": 1688098395101,
+      "hora": 5,
+      "minuto": 11,
+      "placarCasa": 2,
+      "placarFora": 0
+    },
+    {
+      "id": 1688098575697,
+      "hora": 5,
+      "minuto": 14,
+      "placarCasa": 0,
+      "placarFora": 0
+    },
+    {
+      "id": 1688098758372,
+      "hora": 5,
+      "minuto": 17,
+      "placarCasa": 3,
+      "placarFora": 0
+    },
+    {
+      "id": 1688098936194,
+      "hora": 5,
+      "minuto": 20,
+      "placarCasa": 0,
+      "placarFora": 1
+    },
+    {
+      "id": 1688099113108,
+      "hora": 5,
+      "minuto": 23,
+      "placarCasa": 1,
+      "placarFora": 2
+    },
+    {
+      "id": 1688099297935,
+      "hora": 5,
+      "minuto": 26,
+      "placarCasa": 1,
+      "placarFora": 3
+    },
+    {
+      "id": 1688099479005,
+      "hora": 5,
+      "minuto": 29,
+      "placarCasa": 3,
+      "placarFora": 1
+    },
+    {
+      "id": 1688099664200,
+      "hora": 5,
+      "minuto": 32,
+      "placarCasa": 1,
+      "placarFora": 0
+    },
+    {
+      "id": 1688125870392,
+      "hora": 12,
+      "minuto": 47,
+      "placarCasa": 2,
+      "placarFora": 2
+    },
+    {
+      "id": 1688129621199,
+      "hora": 13,
+      "minuto": 50,
+      "placarCasa": 2,
+      "placarFora": 2
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "jogos": [
+    {
+      "id": 1688096437358,
+      "hora": 4,
+      "minuto": 37,
+      "placarCasa": 0,
+      "placarFora": 0
+    },
+    {
+      "id": 1688096676623,
+      "hora": 4,
+      "minuto": 40,
+      "placarCasa": 0,
+      "placarFora": 0
+    },
+    {
+      "id": 1688096734651,
+      "hora": 4,
+      "minuto": 43,
+      "placarCasa": 1,
+      "placarFora": 1
+    },
+    {
+      "id": 1688097137802,
+      "hora": 4,
+      "minuto": 49,
+      "placarCasa": 0,
+      "placarFora": 2
+    },
+    {
+      "id": 1688097253072,
+      "hora": 4,
+      "minuto": 52,
+      "placarCasa": 1,
+      "placarFora": 1
+    },
+    {
+      "id": 1688097437147,
+      "hora": 4,
+      "minuto": 55,
+      "placarCasa": 2,
+      "placarFora": 0
+    },
+    {
+      "id": 1688097644280,
+      "hora": 4,
+      "minuto": 58,
+      "placarCasa": 0,
+      "placarFora": 0
+    },
+    {
+      "id": 1688097799119,
+      "hora": 5,
+      "minuto": 1,
+      "placarCasa": 2,
+      "placarFora": 1
+    },
+    {
+      "id": 1688098006260,
+      "hora": 5,
+      "minuto": 4,
+      "placarCasa": 3,
+      "placarFora": 0
+    },
+    {
+      "id": 1688098155251,
+      "hora": 5,
+      "minuto": 7,
+      "placarCasa": 1,
+      "placarFora": 0
+    },
+    {
+      "id": 1688098304181,
+      "hora": 5,
+      "minuto": 10,
+      "placarCasa": 1,
+      "placarFora": 2
+    },
+    {
+      "id": 1688098513353,
+      "hora": 5,
+      "minuto": 13,
+      "placarCasa": 0,
+      "placarFora": 0
+    },
+    {
+      "id": 1688098694286,
+      "hora": 5,
+      "minuto": 16,
+      "placarCasa": 0,
+      "placarFora": 1
+    },
+    {
+      "id": 1688098876242,
+      "hora": 5,
+      "minuto": 19,
+      "placarCasa": 1,
+      "placarFora": 0
+    },
+    {
+      "id": 1688099053784,
+      "hora": 5,
+      "minuto": 22,
+      "placarCasa": 0,
+      "placarFora": 0
+    },
+    {
+      "id": 1688099234151,
+      "hora": 5,
+      "minuto": 25,
+      "placarCasa": 1,
+      "placarFora": 2
+    },
+    {
+      "id": 1688099420969,
+      "hora": 5,
+      "minuto": 28,
+      "placarCasa": 0,
+      "placarFora": 1
+    },
+    {
+      "id": 1688099598500,
+      "hora": 5,
+      "minuto": 31,
+      "placarCasa": 0,
+      "placarFora": 1
+    },
+    {
+      "id": 1688129622352,
+      "hora": 13,
+      "minuto": 49,
+      "placarCasa": 2,
+      "placarFora": 2
+    },
+    {
+      "id": 1688129678835,
+      "hora": 13,
+      "minuto": 52,
+      "placarCasa": 1,
+      "placarFora": 1
+    }
+  ]
+}
