@@ -1,0 +1,12 @@
+{
+  "erros": [
+    {
+      "id": 1688144259834,
+      "times": [
+        "2023-06-30T16:57:39.834Z"
+      ],
+      "name": "locator.textContent: Timeout 30000ms exceeded.\n=========================== logs ===========================\nwaiting for locator('.vrr-FixtureDetails_Event').first()\n============================================================",
+      "error": "locator.textContent: Timeout 30000ms exceeded.\n=========================== logs ===========================\nwaiting for locator('.vrr-FixtureDetails_Event').first()\n============================================================\n    at file:///home/wisley/meus_projetos/bot-get-bet365/lib/bot.js:37:78"
+    }
+  ]
+}
