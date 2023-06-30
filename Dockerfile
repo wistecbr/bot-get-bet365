@@ -8,7 +8,7 @@ RUN npm i
 
 COPY . .
 
-RUN npx playwright install
+RUN npx playwright install firefox
 # RUN
 
 # CMD ["npm start"]

@@ -6,7 +6,10 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "start": "node index.js",
+    "build": "bash scripts/build.sh",
+    "install": "bash scripts/run-docker.sh",
+    "publish": "bash scripts/publish-docker.sh"
   },
   "author": "",
   "license": "ISC",
