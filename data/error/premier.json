@@ -3,10 +3,21 @@
     {
       "id": 1688144259834,
       "times": [
-        "2023-06-30T16:57:39.834Z"
+        "2023-06-30T16:57:39.834Z",
+        "2023-06-30T21:39:10.820Z",
+        "2023-06-30T21:40:31.582Z",
+        "2023-07-01T00:26:37.765Z"
       ],
       "name": "locator.textContent: Timeout 30000ms exceeded.\n=========================== logs ===========================\nwaiting for locator('.vrr-FixtureDetails_Event').first()\n============================================================",
       "error": "locator.textContent: Timeout 30000ms exceeded.\n=========================== logs ===========================\nwaiting for locator('.vrr-FixtureDetails_Event').first()\n============================================================\n    at file:///home/wisley/meus_projetos/bot-get-bet365/lib/bot.js:37:78"
+    },
+    {
+      "id": 1688171113437,
+      "times": [
+        "2023-07-01T00:25:13.437Z"
+      ],
+      "name": "page.waitForLoadState: Timeout 30000ms exceeded.",
+      "error": "page.waitForLoadState: Timeout 30000ms exceeded.\n    at file:///home/wisley/meus_projetos/bot-get-bet365/lib/bot.js:23:18"
     }
   ]
 }
