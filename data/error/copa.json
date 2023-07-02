@@ -37,6 +37,22 @@
       ],
       "name": "page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://www.bet365.com/#/AVR/B146/R^1/\", waiting until \"load\"\n============================================================",
       "error": "page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://www.bet365.com/#/AVR/B146/R^1/\", waiting until \"load\"\n============================================================\n    at file:///home/wisley/meus_projetos/bot-get-bet365/lib/bot.js:22:18"
+    },
+    {
+      "id": 1688309426997,
+      "times": [
+        "2023-07-02T14:50:26.997Z"
+      ],
+      "name": "locator.textContent: Timeout 30000ms exceeded.\n=========================== logs ===========================\nwaiting for locator('.vrr-FixtureDetails_Event').first()\n============================================================",
+      "error": "locator.textContent: Timeout 30000ms exceeded.\n=========================== logs ===========================\nwaiting for locator('.vrr-FixtureDetails_Event').first()\n============================================================\n    at file:///home/wisley/meus_projetos/bot-get-bet365/lib/bot.js:38:78"
+    },
+    {
+      "id": 1688309678509,
+      "times": [
+        "2023-07-02T14:54:38.509Z"
+      ],
+      "name": "locator.click: Target page, context or browser has been closed",
+      "error": "locator.click: Target page, context or browser has been closed\n    at file:///home/wisley/meus_projetos/bot-get-bet365/lib/bot.js:29:50"
     }
   ]
 }

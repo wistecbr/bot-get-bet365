@@ -20,6 +20,15 @@
       ],
       "name": "page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://www.bet365.com/#/AVR/B146/R^1/\", waiting until \"load\"\n============================================================",
       "error": "page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://www.bet365.com/#/AVR/B146/R^1/\", waiting until \"load\"\n============================================================\n    at file:///home/wisley/meus_projetos/bot-get-bet365/lib/bot.js:22:18"
+    },
+    {
+      "id": 1688309808020,
+      "times": [
+        "2023-07-02T14:56:48.020Z",
+        "2023-07-02T14:57:55.802Z"
+      ],
+      "name": "page.waitForLoadState: Navigation failed because page was closed!",
+      "error": "page.waitForLoadState: Navigation failed because page was closed!\n    at file:///home/wisley/meus_projetos/bot-get-bet365/lib/bot.js:24:18"
     }
   ]
 }
