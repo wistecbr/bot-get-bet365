@@ -5,7 +5,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "TEST='ok' node index.js",
     "start": "node index.js",
     "build": "bash scripts/build.sh",
     "docker": "bash scripts/run-docker.sh",
