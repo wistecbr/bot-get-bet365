@@ -24,7 +24,7 @@ const runAll = async () => {
     // ])
     const endTime = new Date()
     const difTime = endTime - initTime
-    const timeDelay = (60000 - difTime) / 1000
+    const timeDelay = (30000 - difTime) / 1000
     console.log('Took: ', difTime, ' ', timeDelay)
     await delay(timeDelay > 0 ? timeDelay : 1)
   }
