@@ -6,7 +6,7 @@
   "main": "index.js",
   "scripts": {
     "test": "TEST='ok' node index.js",
-    "test:thead": "TEST='ok' node thread.js",
+    "test:thread": "TEST='ok' node thread.js",
     "start": "node index.js",
     "start:thread": "node thread.js",
     "build": "bash scripts/build.sh",
