@@ -1,7 +1,7 @@
 import { Worker, workerData } from 'worker_threads'
 
-
-const __dirname = !process.env.TEST ? '/home/wisley/projetos/bot-get-bet365/' : process.cwd()
+const isTest = process.env.TEST && process.env.TEST !== ''
+const __dirname = !isTest ? '/home/wisley/projetos/bot-get-bet365/' : process.cwd()
 
 const startWorker = (path, campeonato, nomeCampeonato, cb) => {
   const worker = new Worker(path, { workerData: { campeonato, nomeCampeonato } })
@@ -26,10 +26,11 @@ const callbackWorker = (err, result) => {
 
 // Inicia o worker em outra thread
 startWorker(__dirname + '/lib/worker.js', 'premier', 'Premier League', callbackWorker)
-startWorker(__dirname + '/lib/worker.js', 'euro', 'Euro Cup', callbackWorker)
-startWorker(__dirname + '/lib/worker.js', 'copa', 'Copa do Mundo', callbackWorker)
-startWorker(__dirname + '/lib/worker.js', 'super', 'Super Liga Sul-Americana', callbackWorker)
-
+if (!isTest) {
+  startWorker(__dirname + '/lib/worker.js', 'euro', 'Euro Cup', callbackWorker)
+  startWorker(__dirname + '/lib/worker.js', 'copa', 'Copa do Mundo', callbackWorker)
+  startWorker(__dirname + '/lib/worker.js', 'super', 'Super Liga Sul-Americana', callbackWorker)
+}
 
 
 
