@@ -1,4 +1,4 @@
-import run, { getPage } from './lib/bot.js'
+import run from './lib/bot.js'
 
 const runAll = async () => {
   run('euro', 'Euro Cup')
@@ -9,7 +9,6 @@ const runAll = async () => {
 
   run('premier', 'Premier League')
 }
-
 
 runAll()
 
